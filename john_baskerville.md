@@ -1,7 +1,8 @@
 # John Baskerville
+
 ### Letter Founder & Master Printer
 
-John Baskerville (1706–1775) was an English businessman whose entrepreneurial attentions included japanning and papier-mâché; he is, however, best remembered as a typographer and printer, not least for the design of the eponymous typeface which, to this very day, bears his name.
+John Baskerville (1706–1775) was an English businessman whose entrepreneurial attentions included _japanning and papier-mâché_; he is, however, best remembered as a typographer and printer, not least for the design of the eponymous typeface which, to this very day, bears his name.
 
 
 
@@ -11,14 +12,14 @@ Baskerville was born in the village of Wolverley, near Kidderminster in Worceste
 
 Baskerville was responsible for numerous innovations in printing, paper and ink production. He developed a technique which produced a smoother whiter paper which showcased his strong black type. He also pioneered a completely new style of typography, adding wide margins and generous leading to improve legibility.
 
-“Having been an early admirer of the beauty of letters, I became insensibly desirous of contributing to the perfection of them. I formed to myself ideas of greater accuracy than had yet appeared, and had endeavoured to produce a set of types according to what I conceived to be their true proportion.”
+>“Having been an early admirer of the beauty of letters, I became insensibly desirous of contributing to the perfection of them. I formed to myself ideas of greater accuracy than had yet appeared, and had endeavoured to produce a set of types according to what I conceived to be their true proportion.”
 
 —John Baskerville, preface to Milton, 1758 (Anatomy of a Typeface)
 
 
 ### The Typeface
 
-Baskerville is a Transitional serif typeface designed by John Baskerville in 1757, positioned between the Old Style typefaces of William Caslon, and the modern styles of Giambattista Bodoni and Firmin Didot.
+Baskerville is a Transitional serif typeface designed by John Baskerville in 1757, positioned between the Old Style typefaces of _William Caslon_, and the modern styles of _Giambattista Bodoni and Firmin Didot._
 
 The typeface is the result of Baskerville’s intent to improve upon the types of William Caslon. He increased the contrast between thick and thin strokes, making the serifs sharper and more tapered, and shifted the axis of rounded letters to a more vertical position. The curved strokes are more circular in shape, and the characters became more regular. These changes created a greater consistency in size and form.
 
