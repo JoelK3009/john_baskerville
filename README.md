@@ -8,4 +8,8 @@
 
 # History of Type
 
-[Version 1](https://joelk3009.github.io/history.html/)
+[Version 1](https://joelk3009.github.io/john_baskerville/history.html/)
+*28 October 2019*
+
+[Version 2](https://joelk3009.github.io/john_baskerville/history2.html/)
+*10 November 2019*
