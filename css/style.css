@@ -53,6 +53,7 @@ h3{
     margin: 1.5em;
 }
 
+
 blockquote{
     font-size: 1.25em;
     hanging-punctuation: first;
@@ -64,6 +65,14 @@ blockquote cite{
     font-size: 0.75em;
     color: #333;
 
+}
+
+header, h3{
+    font-style: italic;
+}
+
+header p{
+    font-size: 1.35em;
 }
 
 
