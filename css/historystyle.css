@@ -24,10 +24,12 @@ h1, h2, h3{
     color: #80001E;
     text-align: center;
     font-family: 'Arimo', sans-serif;
+    padding: 20px;
 }
 
 p{
     font-family: 'Arimo', sans-serif;
+    text-align: left;
 }
 
 h1{
@@ -55,7 +57,7 @@ blockquote cite{
 }
 
 /*-------Footer-------*/
-footer{
+footer p{
     text-align: center;
     font-size: 0.707em;
     padding: 2em 0 4em 0;
