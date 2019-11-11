@@ -10,7 +10,7 @@ Introduced CSS Styling
 
 [Version 3](https://joelk3009.github.io/john_baskerville/john_baskerville3.html)
 *11 November 2019*
-Introduced Web Fonts
+Introduced Web Fonts and Lists
 
 # History of Type
 
