@@ -27,9 +27,15 @@ h1, h2, h3{
     text-align: center;
 }
 
+p, cite{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
 p, blockquote{
     margin: 0 0 1.5em 0;
     line-height: 1.5;
+    font-family: 'Libre Baskerville', serif;
 }
 
 h1{
