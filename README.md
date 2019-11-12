@@ -14,8 +14,11 @@ Introduced Web Fonts and Lists
 
 # History of Type
 
-[Version 1](https://joelk3009.github.io/john_baskerville/history.html/)
+[Version 1](https://joelk3009.github.io/john_baskerville/history.html)
 *28 October 2019*
 
-[Version 2](https://joelk3009.github.io/john_baskerville/history2.html/)
+[Version 2](https://joelk3009.github.io/john_baskerville/history2.html)
+*10 November 2019*
+
+[Version 3](https://joelk3009.github.io/john_baskerville/history3.html)
 *10 November 2019*
