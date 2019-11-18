@@ -22,7 +22,10 @@ Added Styling for the Navigation & Links
 *28 October 2019*
 
 [Version 2](https://joelk3009.github.io/john_baskerville/history2.html)
-*10 November 2019*
+*05 November 2019*
 
 [Version 3](https://joelk3009.github.io/john_baskerville/history3.html)
 *10 November 2019*
+
+[Version 3](https://joelk3009.github.io/john_baskerville/history4.html)
+*19 November 2019*
