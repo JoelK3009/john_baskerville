@@ -12,6 +12,10 @@ Introduced CSS Styling
 *11 November 2019*
 Introduced Web Fonts and Lists
 
+[Version 4](https://joelk3009.github.io/john_baskerville/john_baskerville4.html)
+*18 November 2019*
+Added Styling for the Navigation & Links
+
 # History of Type
 
 [Version 1](https://joelk3009.github.io/john_baskerville/history.html)
