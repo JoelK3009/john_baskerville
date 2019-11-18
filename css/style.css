@@ -81,6 +81,10 @@ a {
     color: #5032FF; 
     text-decoration: none;
 }
+a:hover{
+    color: crimson;
+    border-bottom: 1px solid;
+}
 
 
 /*-------Footer-------*/
