@@ -75,6 +75,13 @@ header p{
     font-size: 1.35em;
 }
 
+/*-------LINKS Styling-------*/
+
+a {
+    color: #5032FF; 
+    text-decoration: none;
+}
+
 
 /*-------Footer-------*/
 footer{
