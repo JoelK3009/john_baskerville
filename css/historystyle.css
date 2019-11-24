@@ -57,6 +57,32 @@ blockquote cite{
     color: #80001E;
 }
 
+/*-------Navigation-------*/
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a:link {
+    color: crimson;
+}
+
+nav a:visited {
+    color: purple;
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: blueviolet;
+}
+
 /*-------Footer-------*/
 footer p{
     text-align: center;
