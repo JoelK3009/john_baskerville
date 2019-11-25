@@ -16,6 +16,10 @@ Introduced Web Fonts and Lists
 *18 November 2019*
 Added Styling for the Navigation & Links
 
+[Version 5](https://joelk3009.github.io/john_baskerville/john_baskerville5.html)
+*25 November 2019*
+Adding and Styling Tables
+
 # History of Type
 
 [Version 1](https://joelk3009.github.io/john_baskerville/history.html)
