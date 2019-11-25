@@ -161,11 +161,19 @@ th, td{
 }
 
 table, td{
-    background: #8C80FF;
-    border:  1px solid #fafafa;
+    background: #fafafa;
+    border:  1px solid #8C80FF;
 }
 
+/*-------Images-------*/
 
+img{
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+    
+}
 
 /*-------Footer-------*/
 footer {
