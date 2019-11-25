@@ -30,13 +30,14 @@ h3 {
 }
 
 p,
+table,
 cite {
     font-family: 'Libre Baskerville', serif;
     font-family: 'Open Sans', sans-serif;
 }
 
 p,
-blockquote {
+blockquote{
     margin: 0 0 1.5em 0;
     line-height: 1.5;
     font-family: 'Libre Baskerville', serif;
@@ -129,7 +130,40 @@ nav a:hover {
     color: crimson;
 }
 
-/*-------LIST-------*/
+/*-------Table-------*/
+
+
+table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+caption{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+
+th{
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #5032FF;
+}
+
+th, td{
+    padding: 0.75em;
+}
+
+table, td{
+    background: #8C80FF;
+    border:  1px solid #fafafa;
+}
 
 
 
