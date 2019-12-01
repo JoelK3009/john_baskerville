@@ -18,7 +18,7 @@ Added Styling for the Navigation & Links
 
 [Version 5](https://joelk3009.github.io/john_baskerville/john_baskerville5.html)
 *25 November 2019*
-Adding and Styling Tables
+Adding & Styling Tables as well as Images
 
 # History of Type
 
@@ -33,3 +33,6 @@ Adding and Styling Tables
 
 [Version 4](https://joelk3009.github.io/john_baskerville/history4.html)
 *19 November 2019*
+
+[Version 4](https://joelk3009.github.io/john_baskerville/history5.html)
+*30 November 2019*

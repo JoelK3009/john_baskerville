@@ -27,10 +27,16 @@ h1, h2, h3{
     padding: 20px;
 }
 
-p{
+p,
+table{
     font-family: 'Open Sans', sans-serif;
     text-align: left;
     line-height: 1.5em;
+}
+
+p,
+blockquote{
+    margin: 0 0 1.5em 0;
 }
 
 h1{
@@ -45,7 +51,6 @@ h2{
 
 blockquote{
     font-family: 'Open Sans', sans-serif;
-    margin: 0.5em 0;
     font-size: 1.25em;
     hanging-punctuation: first;
     text-indent: -0.44em;
@@ -57,7 +62,30 @@ blockquote cite{
     color: #80001E;
 }
 
+/*-------LINKS Styling-------*/
+
+a {
+    color: #5032FF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: crimson;
+    border-bottom: 1px solid;
+}
+
 /*-------Navigation-------*/
+
+nav {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    width: 100%;
+    background-color: #AB0028;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
 
 nav ul {
     text-align: center;
@@ -71,19 +99,64 @@ nav ul li {
 }
 
 nav a:link {
-    color: crimson;
+    color: #fafafa;
 }
 
 nav a:visited {
-    color: purple;
+    color: #fafafa;
 }
 
 nav a:hover {
     border-bottom: none;
-    color: blueviolet;
+    color: orange;
 }
 
-/*-------Footer-------*/
+/*-------Table-------*/
+
+
+table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+caption{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+
+th{
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #AB0028;
+}
+
+th, td{
+    padding: 0.75em;
+}
+
+table, td{
+    background: #fafafa;
+    border:  1px solid #AB0028;
+}
+
+
+/*-------Images-------*/
+img{
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+    
+}
+
+/*-------Footer C90035-------*/
 footer p{
     text-align: center;
     font-size: 0.707em;
