@@ -34,5 +34,5 @@ Adding & Styling Tables as well as Images
 [Version 4](https://joelk3009.github.io/john_baskerville/history4.html)
 *19 November 2019*
 
-[Version 4](https://joelk3009.github.io/john_baskerville/history5.html)
+[Version 5](https://joelk3009.github.io/john_baskerville/history5.html)
 *30 November 2019*
