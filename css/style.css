@@ -19,6 +19,27 @@ body {
 
 }
 
+
+article {
+    display: flex;
+}
+
+.main {
+    flex: 4;
+    padding-right: 1em;
+}
+
+aside {
+    flex: 1;
+    font-size: 0.75em;
+    font-style: italic;
+    border-left: 1px solid #5032FF;
+    padding-left: 1em;
+}
+
+
+
+
 /*-------Specified Styling-------*/
 
 h1,
@@ -37,7 +58,7 @@ cite {
 }
 
 p,
-blockquote{
+blockquote {
     margin: 0 0 1.5em 0;
     line-height: 1.5;
     font-family: 'Libre Baskerville', serif;
@@ -133,7 +154,7 @@ nav a:hover {
 /*-------Table-------*/
 
 
-table{
+table {
     margin: auto;
     display: table;
     border-collapse: collapse;
@@ -142,13 +163,13 @@ table{
     width: 100%;
 }
 
-caption{
+caption {
     margin-bottom: 1.5em;
     text-transform: uppercase;
 }
 
 
-th{
+th {
     color: #fafafa;
     text-transform: uppercase;
     font-weight: normal;
@@ -156,23 +177,32 @@ th{
     background: #5032FF;
 }
 
-th, td{
+th,
+td {
     padding: 0.75em;
 }
 
-table, td{
+table,
+td {
     background: #fafafa;
-    border:  1px solid #8C80FF;
+    border: 1px solid #8C80FF;
 }
 
 /*-------Images-------*/
 
-img{
+img {
     display: block;
     margin: 3em auto;
     padding: 0;
     max-width: 100%;
-    
+
+}
+
+/*-------Tablet Size-------*/
+
+@media(max-width: 50em;)
+body{
+    width:90%;
 }
 
 /*-------Footer-------*/
