@@ -24,6 +24,8 @@ Adding & Styling Tables as well as Images
 *02 Decmber 2019*
 Flexbox and Grid Systems 
 
+
+
 # History of Type
 
 [Version 1](https://joelk3009.github.io/john_baskerville/history.html)
