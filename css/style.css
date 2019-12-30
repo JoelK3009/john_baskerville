@@ -198,17 +198,6 @@ img {
 
 }
 
-/*-------Tablet Size-------*/
-
-@media(max-width: 50em;)
-body{
-    width:100%;
-}
-
-hea
-
-/*-------Phone Size-------*/
-
 /*-------Footer-------*/
 footer {
     text-align: center;
@@ -217,31 +206,42 @@ footer {
 }
 
 .links {
-	position: relative;
-	margin: 0 auto;
+    position: relative;
+    margin: 0 auto;
 }
 
 .links ul {
-	margin: 0;
-	padding: 0;}
+    margin: 0;
+    padding: 0;
+}
 
 .links li {
-	margin: 0 15px;
-	padding: 0;
-	list-style: none; 
-	display: inline-block;}
-	
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
 .links a:link {
-	border-bottom: none;}
+    border-bottom: none;
+}
 
 .links img {
-	opacity: 0.5;
+    opacity: 0.5;
     border: none;
-	}
-	
- .links a:hover img {
-		opacity: 1.0;
-		border-bottom: none; 
-		transition: all 0.3s ease-in-out; 
-				}	
+}
 
+.links a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
+}
+
+/*-------Tablet Size-------*/
+
+@media(max-width: 50em; ) body {
+    width: 100%;
+}
+
+
+/*-------Phone Size-------*/
