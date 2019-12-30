@@ -3,7 +3,8 @@
 padding: 0px; 
 margin: 0px;
 font-size: 100%;
-line-height: 1em;    
+line-height: 1em;  
+scroll-behavior: smooth;    
 }
 
 
@@ -156,9 +157,41 @@ img{
     
 }
 
-/*-------Footer C90035-------*/
+/*-------Footer-------*/
 footer p{
     text-align: center;
     font-size: 0.707em;
     padding: 2em 0 4em 0;
+}
+
+.links {
+    position: relative;
+    margin: 0 auto;
+}
+
+.links ul {
+    margin: 0;
+    padding: 0;
+}
+
+.links li {
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.links a:link {
+    border-bottom: none;
+}
+
+.links img {
+    opacity: 0.5;
+    border: none;
+}
+
+.links a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
 }
