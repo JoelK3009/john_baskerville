@@ -20,7 +20,7 @@ Added Styling for the Navigation & Links
 *25 November 2019*
 Adding & Styling Tables as well as Images
 
-[Version 6]
+[Version 6](https://joelk3009.github.io/john_baskerville/john_baskerville6.html)
 *02 Decmber 2019*
 Flexbox and Grid Systems 
 
