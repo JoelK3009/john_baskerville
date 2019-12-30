@@ -86,6 +86,7 @@ nav {
     background-color: #AB0028;
     padding: 1em 0;
     font-size: 0.75em;
+    box-shadow: 0 0 10px 0 black;
 }
 
 nav ul {
